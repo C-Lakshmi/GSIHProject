@@ -53,9 +53,9 @@ Prices knock-out basket options on correlated stocks using a calibrated local vo
 ## 🛠 Tech Stack
 
 - Python (NumPy, pandas, SciPy)
-- scikit-learn, LightGBM, PyTorch
+- scikit-learn, XGBoost, PyTorch
 - Matplotlib / Seaborn for plots
-- Jupyter Notebooks for development
+- Google Collab for development
 
 ---
 
