@@ -40,7 +40,7 @@ Implements a market-making agent that dynamically adjusts bid–ask quotes to ba
 Prices knock-out basket options on correlated stocks using a calibrated local volatility model.
 
 - Calibration:
-  - Dupire local volatility surface inferred by inverting Black–Scholes prices
+  - Local volatility surface inferred by inverting Black–Scholes prices
   - Newton–Raphson optimization to match market quotes
 
 - Pricing:
